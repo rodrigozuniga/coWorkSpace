@@ -1,0 +1,63 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family:Monserrat,sans-serif;
+    width:30rem;
+}
+
+#navContainer{
+    display:flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    background-color: black;
+    height:6em;
+}
+
+#logoContainer{
+    display:flex;
+    flex-direction: row;
+    background:black;
+    align-items: center;
+    list-style-type: none;
+    font-family:Monserrat,sans-serif;
+    justify-content: left;
+    height:3em;
+}
+
+.logo{
+    color:white;
+    font-family:Monserrat,Arial, Helvetica, sans-serif;
+    font-size: 2em;
+}
+
+.icon{
+    height:1.5em;
+    margin-left:15px;
+}
+
+#burger{
+    height:1.5em;
+    margin-right:30px;
+}
+
+#title{
+    color:black;
+    margin-left: 1em;
+    font-weight: 100;
+    font-size:3em;
+    letter-spacing:5px;
+}
+
+.item-img{
+    width:30rem;
+    margin-left:1px;
+}
+
+
+.picCaption{
+    margin-left:0.5em;
+}
+
+
+
