@@ -49,6 +49,27 @@ body {
     letter-spacing:5px;
 }
 
+.item{
+    position:relative
+}
+
+#exclusiveBanner{
+    position:absolute;
+    top:0;
+    left:0;
+    margin:auto auto;
+    padding-top:10px;
+    padding-left:15px;
+    padding-right:15px;
+    background-color: #cd6858;
+    height:2rem;
+    color:white;
+    font-size:large;
+    font-weight:400;
+    color:whitesmoke;
+}
+
+
 .item-img{
     width:30rem;
     margin-left:1px;
